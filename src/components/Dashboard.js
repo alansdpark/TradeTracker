@@ -2,7 +2,7 @@ import React from 'react'
 
 import '../vendor/fontawesome-free/css/all.min.css';
 
-export default function Calendar() {
+export default function Dashboard() {
     return (
         <div className="container-fluid">
             <div className="row">

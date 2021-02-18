@@ -1,14 +1,14 @@
 import './App.css';
 
 // Components
-import Calendar from './components/Calendar.js';
+import Dashboard from './components/Dashboard.js';
 
 function App() {
   return (
     <div className="App">
       <h1>TradeTracker</h1>
 
-      <Calendar />
+      <Dashboard />
     </div>
   );
 }
