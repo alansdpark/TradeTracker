@@ -1,9 +1,9 @@
 import React from 'react'
 
-export default function Calendar() {
+export default function Research() {
     return (
         <div>
-            Calendar
+            Research
         </div>
     )
 }
